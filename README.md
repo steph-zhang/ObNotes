@@ -1,2 +1,0 @@
-# ObNotes
-my coding notes
